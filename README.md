@@ -1,5 +1,5 @@
 # The TEA Stack
-
+--
 Welcome to the shortest stack out there. This stack combines Tailwind CSS, Eleventy, and Alpine.js to make static site authoring easy and minimal!
 
 There are some other goodies in here, but they change so often that it's probably not worth including here, just check the `package.json` file!
